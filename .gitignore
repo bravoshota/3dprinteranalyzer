@@ -1,0 +1,8 @@
+.vs/*
+Debug/*
+release/*
+win32/*
+3dPrinterAnalyzer.VC.*
+3dPrinterAnalyzer/Debug*
+3dPrinterAnalyzer/GeneratedFiles/*
+3dPrinterAnalyzer/3dPrinterAnalyzer.vcxproj.user
